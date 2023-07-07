@@ -1,0 +1,12 @@
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Core\bin\Debug\DeliverySystem.Core.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Core\bin\Debug\DeliverySystem.Core.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Core\obj\Debug\DeliverySystem.Core.csprojAssemblyReference.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Core\obj\Debug\DeliverySystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Core\obj\Debug\DeliverySystem.Core.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Core\obj\Debug\DeliverySystem.Core.pdb
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem.Core\bin\Debug\DeliverySystem.Core.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem.Core\bin\Debug\DeliverySystem.Core.pdb
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem.Core\obj\Debug\DeliverySystem.Core.csprojAssemblyReference.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem.Core\obj\Debug\DeliverySystem.Core.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem.Core\obj\Debug\DeliverySystem.Core.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem.Core\obj\Debug\DeliverySystem.Core.pdb

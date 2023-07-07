@@ -1,0 +1,16 @@
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\bin\Debug\DeliverySystem.Test.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\bin\Debug\DeliverySystem.Test.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\bin\Debug\DeliverySystem.Core.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\bin\Debug\DeliverySystem.Core.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\obj\Debug\DeliverySystem.Test.csprojAssemblyReference.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\obj\Debug\DeliverySystem.Test.csproj.CoreCompileInputs.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\obj\Debug\DeliverySystem.Test.csproj.CopyComplete
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\obj\Debug\DeliverySystem.Test.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem.Test\obj\Debug\DeliverySystem.Test.pdb

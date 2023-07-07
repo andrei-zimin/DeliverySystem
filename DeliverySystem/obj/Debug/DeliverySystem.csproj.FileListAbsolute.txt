@@ -1,0 +1,40 @@
+C:\Users\Evg\source\repos\DeliverySystem\DeliverySystem\bin\Debug\DeliverySystem.exe.config
+C:\Users\Evg\source\repos\DeliverySystem\DeliverySystem\bin\Debug\DeliverySystem.exe
+C:\Users\Evg\source\repos\DeliverySystem\DeliverySystem\bin\Debug\DeliverySystem.pdb
+C:\Users\Evg\source\repos\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.csprojAssemblyReference.cache
+C:\Users\Evg\source\repos\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.Form1.resources
+C:\Users\Evg\source\repos\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.Properties.Resources.resources
+C:\Users\Evg\source\repos\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.csproj.GenerateResource.cache
+C:\Users\Evg\source\repos\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.csproj.CoreCompileInputs.cache
+C:\Users\Evg\source\repos\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.exe
+C:\Users\Evg\source\repos\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem\bin\Debug\DeliverySystem.exe.config
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem\bin\Debug\DeliverySystem.exe
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem\bin\Debug\DeliverySystem.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.csprojAssemblyReference.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.NewCourierForm.resources
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.Properties.Resources.resources
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.csproj.GenerateResource.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.csproj.CoreCompileInputs.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.exe
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.NewOrderForm.resources
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem\bin\Debug\DeliverySystem.Core.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem\bin\Debug\DeliverySystem.Core.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.csproj.CopyComplete
+C:\Users\Evg\Desktop\Андрей Черкашин\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.MainForm.resources
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem\bin\Debug\DeliverySystem.exe.config
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem\bin\Debug\DeliverySystem.exe
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem\bin\Debug\DeliverySystem.pdb
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem\bin\Debug\DeliverySystem.Core.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem\bin\Debug\DeliverySystem.Core.pdb
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.csprojAssemblyReference.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.MainForm.resources
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.NewCourierForm.resources
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.NewOrderForm.resources
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.Properties.Resources.resources
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.csproj.GenerateResource.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.csproj.CopyComplete
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.exe
+E:\Рабочий стол\Флешка2\2 курс\ООП\Курсовая\DeliverySystem4\DeliverySystem\DeliverySystem\obj\Debug\DeliverySystem.pdb
